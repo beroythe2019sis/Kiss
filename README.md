@@ -5,9 +5,21 @@ all .gh files can be converted to text files using .ghx
 
 
 Arduino
+
+  Pins (working out which pins crossover with each othe)
+  
+  
   Connecting multiple arduinos (i2c)
     https://www.youtube.com/watch?v=RPHP4fAisz8
     https://www.youtube.com/watch?v=6IAkYpmA1DQ
+    
+  Connecting to the wifi module (ESP8266)
+  
+  signal processing 
+    rs485, i2c, wifi, ICSP-USB (SERIAL)
+    
+    
+    
   Braccio
    https://www.youtube.com/watch?v=xwg6QIFX3yw
    https://www.youtube.com/watch?v=eKAhQHApFGQ
