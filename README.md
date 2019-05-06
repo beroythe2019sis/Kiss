@@ -14,6 +14,12 @@ Arduino
     https://www.youtube.com/watch?v=6IAkYpmA1DQ
     
   Connecting to the wifi module (ESP8266)
+        build a sensing component that is wireless (IOT)
+        esp8266 (board I bought from Jaycar Duinotech uses CH340/341 Serial to USB signal processing, which would not load correctly on my Lenova Yoga 530, windows 10 - so abandoned for this project
+          ; CH341SER.INF
+          ; Driver for CH340/CH341 (USB=>SERIAL chip) V3.5
+      esp32 (another wifi enabled board, as a development board, the route to understanding the hardware will take too long for this project
+      
   
   signal processing 
     rs485, i2c, wifi, ICSP-USB (SERIAL)
@@ -59,7 +65,9 @@ http://rhino.github.io/
       Automatic Baking - no need to bake a surface for the moment
       Meshing - real world forces, which I am less interested at representing
       Lady Bug - graphing tool, feel too much like a control
-      Lunchbox?
+      Lunchbox - grasshopper plugin
+      WeaverBrid - grasshopper plugin
+
 
     Potential analogies to explore
     code - decode - same topology, with different paths (course material)
