@@ -18,7 +18,9 @@ Arduino
         esp8266 (board I bought from Jaycar Duinotech uses CH340/341 Serial to USB signal processing, which would not load correctly on my Lenova Yoga 530, windows 10 - so abandoned for this project
           ; CH341SER.INF
           ; Driver for CH340/CH341 (USB=>SERIAL chip) V3.5
-      esp32 (another wifi enabled board, as a development board, the route to understanding the hardware will take too long for this project
+      esp32 (another wifi enabled board, as a development board, the route to understanding the hardware will take too long for this projet
+  
+  DHT11 with interupt - looked on github for code that uses an interupt to bypass the delay of 1 hz
       
   
   signal processing 
