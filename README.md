@@ -20,13 +20,17 @@ Arduino
           ; Driver for CH340/CH341 (USB=>SERIAL chip) V3.5
       esp32 (another wifi enabled board, as a development board, the route to understanding the hardware will take too long for this projet
   
+  
   DHT11 with interupt - looked on github for code that uses an interupt to bypass the delay of 1 hz
       
   
-  signal processing 
+  Signal processing options 
     rs485, i2c, wifi, ICSP-USB (SERIAL)
     
     
+    
+  Amplification options
+    http://www.ti.com/lit/ds/symlink/ina333.pdf
     
   Braccio
    https://www.youtube.com/watch?v=xwg6QIFX3yw
